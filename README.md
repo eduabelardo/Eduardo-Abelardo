@@ -7,7 +7,7 @@ About me
 
 - 🌱 I’m currently learning **PHP**
 
-- 👨‍💻 All of my projects are available at [my GitHub profile](my GitHub profile)
+- 👨‍💻 All of my projects are available at my GitHub profile
 
 - 💬 Ask me about **React, Redux, Node Js**
 
